@@ -1,0 +1,6 @@
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/bin/Debug/turkcell.exe
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/bin/Debug/turkcell.pdb
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/obj/Debug/turkcell.csproj.AssemblyReference.cache
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/obj/Debug/turkcell.csproj.CoreCompileInputs.cache
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/obj/Debug/turkcell.exe
+/Users/ahmetburakozturk/Projects/turkcell/turkcell/obj/Debug/turkcell.pdb
